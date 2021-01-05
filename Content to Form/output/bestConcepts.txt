@@ -1,0 +1,12 @@
++-----------------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Correct Concept |  Authomatic Concept  |                                                                      Definition                                                                      |
++-----------------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
+|     justice     |      right.n.01      |             an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt              |
+|     patience    | responsiveness.n.02  |         the quality of being responsive; reacting quickly; as a quality of people, it involves responding with emotion to people and events          |
+|      greed      |      greed.n.01      |                       excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves                       |
+|     politics    |     section.n.03     |                         a distinct region or subdivision of a territorial or political area or community or group of people                          |
+|       food      |    parasite.n.01     | an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host |
+|     radiator    | central_heating.n.01 |         a heating system in which air or water is heated at a central furnace and sent through the building via vents or pipes and radiators         |
+|     vehicle     |      play.v.24       |                                                cause to move or operate freely within a bounded space                                                |
+|      screw      |       pin.n.09       |                          a small slender (often pointed) piece of wood or metal used to support or fasten or attach things                           |
++-----------------+----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+

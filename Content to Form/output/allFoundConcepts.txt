@@ -1,0 +1,32 @@
+justice
+[Synset('right.n.01'), Synset('morally.r.01'), Synset('abstraction.n.01'), Synset('rule.n.01'), Synset('isometry.n.04'), Synset('stigmatism.n.02'), Synset('abstraction.n.01'), Synset('concept.n.01'), Synset('law.n.03'), Synset('fairness.n.01')]
+
+
+patience
+[Synset('responsiveness.n.02'), Synset('ancients.n.01'), Synset('unresponsiveness.n.01'), Synset('delay.n.01'), Synset('day.n.07'), Synset('long_run.n.01'), Synset('phase.n.01'), Synset('time.n.03'), Synset('weekend.n.01'), Synset('time.n.03')]
+
+
+greed
+[Synset('greed.n.01'), Synset('air.n.03'), Synset('longer.n.01'), Synset('tone.n.10'), Synset('actor.n.02'), Synset('arrogator.n.01'), Synset('fiduciary.n.01'), Synset('rich_person.n.01'), Synset('craving.n.01'), Synset('materialism.n.01')]
+
+
+politics
+[Synset('section.n.03'), Synset('abstraction.n.01'), Synset('right.n.01'), Synset('abstraction.n.01'), Synset('architecture.n.02'), Synset('engineering.n.02'), Synset('restraint.n.02'), Synset('regulate.v.02'), Synset('territorial.a.01'), Synset('rule.n.06')]
+
+
+food
+[Synset('parasite.n.01'), Synset('embryo.n.02'), Synset('omnivore.n.02'), Synset('reservoir.n.04'), Synset('food.n.01'), Synset('organism.n.01'), Synset('herbivore.n.01'), Synset('predator.n.02'), Synset('reseed.v.02'), Synset('material.n.01')]
+
+
+radiator
+[Synset('central_heating.n.01'), Synset('radiate.v.07'), Synset('heating_system.n.01'), Synset('utility.n.06'), Synset('heat.v.01'), Synset('heat.v.04'), Synset('latent_heat.n.01'), Synset('specific_heat.n.01'), Synset('gas_heat.n.01'), Synset('panel_heating.n.01')]
+
+
+vehicle
+[Synset('play.v.24'), Synset('air_transportation_system.n.01'), Synset('highway_system.n.01'), Synset('airlift.n.01'), Synset('transport.v.02'), Synset('move.v.02'), Synset('move.v.02'), Synset('move.v.02'), Synset('move.v.02'), Synset('transport.v.02')]
+
+
+screw
+[Synset('pin.n.09'), Synset('slice.n.05'), Synset('straight_pin.n.01'), Synset('part.n.03'), Synset('component.n.03'), Synset('section.n.04'), Synset('rivet.n.02'), Synset('ribbon.n.01'), Synset('peen.n.01'), Synset('strip.n.01')]
+
+
